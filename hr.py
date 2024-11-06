@@ -1,2 +1,2 @@
-class versionone(Models.model):
+class versiontwo(Models.model):
         name = fields.char("Name", store=True)
