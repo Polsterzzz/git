@@ -4,3 +4,4 @@ class versionthree(Models.model):
 
 class Featureone(Models.model)
         name = fields.char("Name", store=True)
+        email = fields.Char("email", store=True)
